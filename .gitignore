@@ -1,0 +1,6 @@
+Dungeon Clenzing/
+__pycache__/
+*.pyc
+venv/
+.env
+desktop.ini
